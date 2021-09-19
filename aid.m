@@ -1,3 +1,6 @@
+%Note that this is not my creation, but the creation of my professor at the time. This is merely a reference tool for similar projects or to wrap one's head around 
+%signal processing applications & signal construction 
+
 clear all;
 close all;
 
